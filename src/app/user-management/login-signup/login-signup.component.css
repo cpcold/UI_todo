@@ -1,5 +1,17 @@
-html, body * { box-sizing: border-box; font-family: 'Open Sans', sans-serif; }
+html, body * { box-sizing: border-box; font-family: 'Open Sans', sans-serif; 
+    
+}
 
+select{
+    width:100%;
+    height:35px;
+    font-size: 15px;
+    background-color: #727792;
+    margin: 0px auto;
+    border-radius: 50px;
+    text-indent: 20px;
+    color:white;
+}
 
 .container {
   width: 100%;
